@@ -7,9 +7,9 @@ The rock, paper, scissors game is a hand game in which each player chooses one o
 
 This project will demonstrate my ability to:
 
-Use GitHub Codespaces as a development environment.
-Use GitHub Copilot as an assistant.
-Develop input and output routines in a Python console application.
+- Use GitHub Codespaces as a development environment.
+- Use GitHub Copilot as an assistant.
+- Develop input and output routines in a Python console application.
 
 GameReadMe
 ===========
