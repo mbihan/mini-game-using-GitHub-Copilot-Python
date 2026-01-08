@@ -11,9 +11,6 @@ This project will demonstrate my ability to:
 - Use GitHub Copilot as an assistant.
 - Develop input and output routines in a Python console application.
 
-GameReadMe
-===========
-
 Overview
 --------
 This is a simple command-line Rock Paper Scissors game played against the computer. The app lets the player pick rock, paper, or scissors each round, reports the outcome, and tracks the cumulative score across multiple rounds. At the end of each round the player can choose whether to play again; when the player quits the final score is displayed.
